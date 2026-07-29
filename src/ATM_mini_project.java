@@ -24,7 +24,6 @@ public class ATM_mini_project {
                 System.out.println("Exit");
             default:
                 System.out.println("Oops! invalid choice");
-
         }
 
     }
