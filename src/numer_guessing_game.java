@@ -18,7 +18,7 @@ public class numer_guessing_game {
                 if (number > computer) {
                     System.out.println("Too High! Use a Smaller Number");
                 } else {
-                    System.out.println("Too Low Use a Larger Number");
+                    System.out.println("Too Low! Use a Larger Number");
                 }
             }
         }
