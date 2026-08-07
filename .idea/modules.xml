@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Recusion-Practise/DSA/Arraylist.iml" filepath="$PROJECT_DIR$/Recusion-Practise/DSA/Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recusion-Practise/DSA/DSA/DSA.iml" filepath="$PROJECT_DIR$/Recusion-Practise/DSA/DSA/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recusion-Practise/Oops_concepts/Oops_concepts.iml" filepath="$PROJECT_DIR$/Recusion-Practise/Oops_concepts/Oops_concepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recusion-Practise/Recusion-Practise.iml" filepath="$PROJECT_DIR$/Recusion-Practise/Recusion-Practise.iml" />
       <module fileurl="file://$PROJECT_DIR$/myfirstjavacode.iml" filepath="$PROJECT_DIR$/myfirstjavacode.iml" />

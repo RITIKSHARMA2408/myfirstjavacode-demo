@@ -1,7 +1,7 @@
 public class Xn_recusion{
     public static int calculatePower(int x,int n){
         if(n==0){ //base case 1
-            return 0;
+            return 1;
         }
         if(n==1){
             return x;
